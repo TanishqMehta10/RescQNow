@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
     "start": "vite preview --host 0.0.0.0 --port 10000"
   },
   "dependencies": {
@@ -18,7 +18,7 @@
     "@react-google-maps/api": "^2.19.1",
     "zustand": "^4.5.4",
     "nanoid": "^5.0.7",
-    "qrcode": "^1.5.4"
+    "qrcode": "^1.5.4",
     ,"recharts": "^2.5.0"
   },
   "devDependencies": {
